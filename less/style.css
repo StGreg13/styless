@@ -1,0 +1,10 @@
+.header {
+  background-color: #aeaeae;
+  text-transform: uppercase;
+}
+.header-btn {
+  border-radius: 50px;
+}
+.header-btn_blue {
+  background-color: blue;
+}
